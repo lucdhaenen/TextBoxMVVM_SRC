@@ -1,0 +1,56 @@
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.exe.config
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.exe
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\System.Windows.Interactivity.dll
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\System.Windows.Interactivity.xml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.csprojResolveAssemblyReference.cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\View\TextBoxView.g.cs
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\App.g.cs
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld_MarkupCompile.cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld_MarkupCompile.lref
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\View\TextBoxView.baml
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.g.resources
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.Properties.Resources.resources
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.csproj.GenerateResource.Cache
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.exe
+c:\users\luc.dhaenen\documents\visual studio 2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.pdb
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.exe.config
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.exe
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.pdb
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.exe
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.pdb
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.dll
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.WPF45.dll
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\System.Windows.Interactivity.dll
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.pdb
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.Extras.WPF45.xml
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.WPF45.pdb
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\GalaSoft.MvvmLight.WPF45.xml
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\System.Windows.Interactivity.xml
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.csprojResolveAssemblyReference.cache
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\View\TextBoxView.g.cs
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\App.g.cs
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld_MarkupCompile.cache
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld_MarkupCompile.lref
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\View\TextBoxView.baml
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.g.resources
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.Properties.Resources.resources
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.csproj.GenerateResource.Cache
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.exe.manifest
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\bin\Debug\MVVMVoorbeeld.application
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.exe.manifest
+H:\Visual Studio\2013\Projects\MVVMVoorbeeld\MVVMVoorbeeld\obj\Debug\MVVMVoorbeeld.application
